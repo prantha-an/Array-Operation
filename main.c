@@ -62,8 +62,7 @@ void Sort(int arr[],int size){
     }
  }
     if(x==2){
-        printf(" Selection Sort ami vhule gechi n");
-
+        printf(" Selection Sort ami vhule gechi ");
 }
 }
 void Search(int arr[],int size){
