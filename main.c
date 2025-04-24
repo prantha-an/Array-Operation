@@ -140,7 +140,7 @@ int main()
     }
     else if(option==4){
             Search(arr, size);
-            break;
+        
 
     }
     else if(option==5){
